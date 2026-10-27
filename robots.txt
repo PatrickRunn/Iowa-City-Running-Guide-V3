@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# After creating your GitHub Pages site, replace YOUR_GITHUB_USERNAME below
+# with your GitHub username and remove these comment lines.
+Sitemap: https://YOUR_GITHUB_USERNAME.github.io/iowa-city-running-guide-v2/sitemap.xml
