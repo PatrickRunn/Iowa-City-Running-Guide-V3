@@ -1,14 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/</loc>
-</url>
-<url>
-<loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/routes.html</loc>
-</url>
-<url>
-<loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/beginners.html</loc>
-</url>
-<url>
-<loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/resources.html</loc>
-</url>
+  <url><loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/</loc></url>
+  <url><loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/routes.html</loc></url>
+  <url><loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/beginners.html</loc></url>
+  <url><loc>https://patrickrunn.github.io/Iowa-City-Running-Guide-V3/resources.html</loc></url>
 </urlset>
